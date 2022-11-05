@@ -27,4 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
-"# Aplicaciones-Web-Progresivas" 
+"# PWA_Vite | MJHJ" 
