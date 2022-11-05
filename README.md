@@ -27,4 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
-"# PWA_Vite | MJHJ" 
+# PWA_Vite | MJHJ
